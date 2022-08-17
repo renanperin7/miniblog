@@ -1,5 +1,7 @@
 import styles from "./Search.module.css"
 
+import React from "react";
+
 //hooks
 import { useFetchDocuments } from '../../hooks/useFetchDocuments'
 import { useQuery } from '../../hooks/UseQuery'

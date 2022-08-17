@@ -1,6 +1,8 @@
 // CSS
 import styles from "./Home.module.css"
 
+import React from "react";
+
 // hooks
 import { useNavigate, Link } from "react-router-dom"
 import { useState } from "react"
